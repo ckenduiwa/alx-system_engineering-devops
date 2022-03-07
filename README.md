@@ -1,1 +1,1 @@
-shell repository
+shell permissions
